@@ -1,6 +1,6 @@
 
 
-# 网站说明
+# 网站说明(index.md)
 
 
 
@@ -14,6 +14,8 @@
 
 > 萧伯纳：人生不是一支短短的蜡烛，而是一支暂时由我们拿着的火炬。我们一定要把它燃得十分光明灿烂，然后交给下一代。
 
+[第一篇](docs/first.md)
+[DOCS/README.md](docs/README.md)
 
 
 ![LOGO](images/me300c.png)
