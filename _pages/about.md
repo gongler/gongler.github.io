@@ -3,7 +3,7 @@ layout: default
 title: 关于
 permalink: /about/
 ---
-# 欢迎大家到我博客做客 !
+## 欢迎大家到我博客做客 !
 
 大家好，我是gongler。
 
@@ -19,6 +19,6 @@ permalink: /about/
 
 你还可以访问我的其他资源:  
 
-<http://www.gongler.cn>
-<https://blog.csdn.net/ococo>
-<mailto://gongler@sina.com>
+- <http://www.gongler.cn>
+-  <https://blog.csdn.net/ococo>
+-  <gongler@sina.com>
