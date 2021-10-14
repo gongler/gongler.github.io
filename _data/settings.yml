@@ -7,7 +7,7 @@ disqus:
 #gongler google-ID: 
 
 menu: 
-  - name: Featured Projects
+  - name: 菜单
     submenu:
       - name: MicroBam
         link: /projects/microbam
@@ -19,7 +19,7 @@ menu:
     link: /tags
   - name: 关于
     link: /about
-  - name: follow me
+  - name: 更多链接
     submenu:
       - name: GitHub
         icon: github
