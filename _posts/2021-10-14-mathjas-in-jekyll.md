@@ -269,3 +269,40 @@ $$ F(x) = P\{ X <= x \} = \int_{-\infty}^x f(x)\,dx $$
 
 
 
+### 后记：一个悲伤的事
+
+我再自己的网站上Jekyll编译时可以成功的，但是提交到GitHub交由它来编译出来的效果就是全部看不到。
+
+这是我的网站编译的页面：
+
+```
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$$
+x=−a±b2−4ac
+$$
+</code></pre></div></div>
+
+<script type="math/tex; mode=display">x=−a±b2−4ac</script>
+
+```
+
+
+
+这是GitHub编译后的静态页面：
+
+```
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$$
+x=−a±b2−4ac
+$$
+</code></pre></div></div>
+
+\[x=−a±b2−4ac\]
+```
+
+不清楚GitHub编译版本都是多少，看来如果要能正常显示数学公式，以后有必要自己编译后给他提交编译结果了。
+
+
+
+
+
+
+
